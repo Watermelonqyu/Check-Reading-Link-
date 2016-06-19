@@ -1,0 +1,16 @@
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\ReadingLink.exe.config
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\ReadingLink.exe
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\ReadingLink.pdb
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\CSALMongo.dll
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\MongoDB.Bson.dll
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\MongoDB.Driver.dll
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\CSALMongo.pdb
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\CSALMongo.xml
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\MongoDB.Bson.xml
+D:\CSAL\ReadingLink\ReadingLink\bin\Debug\MongoDB.Driver.xml
+D:\CSAL\ReadingLink\ReadingLink\obj\Debug\ReadingLink.csprojResolveAssemblyReference.cache
+D:\CSAL\ReadingLink\ReadingLink\obj\Debug\ReadingLink.Form1.resources
+D:\CSAL\ReadingLink\ReadingLink\obj\Debug\ReadingLink.Properties.Resources.resources
+D:\CSAL\ReadingLink\ReadingLink\obj\Debug\ReadingLink.csproj.GenerateResource.Cache
+D:\CSAL\ReadingLink\ReadingLink\obj\Debug\ReadingLink.exe
+D:\CSAL\ReadingLink\ReadingLink\obj\Debug\ReadingLink.pdb
